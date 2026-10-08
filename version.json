@@ -1,7 +1,7 @@
 {
   "windows": {
-    "version": "1.0.0",
-    "download_url": "https://github.com/nightcrawley/iptv_player_releases/releases/download/v1.0.0/iptv_global_v1.0.0.msix",
+    "version": "1.0.1",
+    "download_url": "https://github.com/nightcrawley/iptv_player_releases/releases/download/v1.0.1/iptv_global_v1.0.1.msix",
     "notes": "Versão inicial para Windows."
   },
   "android": {
